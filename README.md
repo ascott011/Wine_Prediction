@@ -1,4 +1,21 @@
-# Wine_Prediction
+# Wine Predictor
+
+## The Project
+
+
+## The Data
+
+## The Predictors
+
+### Count Vectorizer using Multinomial Naive Bayes (Red VS White Wine)
+
+### Count Vectorizer using Multinomial Naive Bayes (Wine Variety)
+
+
+
+### Random Forest Classifier
+
+## Going Forward
 
 Data scrapped from Wine Enthusiast Magazine by zackthoutt which can be found here: https://www.kaggle.com/zynicide/wine-reviews
 
