@@ -19,6 +19,8 @@ This predictor uses a count vectorizer and then multinomial naive bayes to predi
 
 ### Count Vectorizer using Multinomial Naive Bayes (Wine Variety)
 
+This predictor also uses a count vectorizer and multinomial naive bayes to predict the wine variety. This model’s accuracy is 64%
+
 
 
 ### Random Forest Classifier
