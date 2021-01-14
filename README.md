@@ -13,6 +13,10 @@ My comes from Wine Enthusiast Magazine where zackthoutt scraped wine reviews fro
 
 ### Count Vectorizer using Multinomial Naive Bayes (Red VS White Wine)
 
+This predictor uses a count vectorizer and then multinomial naive bayes to predict whether the wine review is referring to a red or white wine. This model’s accuracy is 98%. I was curious about which keywords the model was using to make it’s predictions, so I pulled out the top features in the reviews. These are some of the top feature words for red wine: Spice,
+ chocolate, dark, berry, 'shows', 'soft', 'blackberry' ,'rich', 'black',  'cherry,' 'tannins'
+
+
 ### Count Vectorizer using Multinomial Naive Bayes (Wine Variety)
 
 
