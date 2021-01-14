@@ -2,8 +2,12 @@
 
 ## The Project
 
+I wanted to be able to predict the variety of wine based on it’s description by examining keywords and characteristics of the wine. I also created a predictor that predicts whether the wine is red or white through the same process of examining keywords and characteristics. I examined wine reviews using natural language processing(NLP). I love wine, so I thought this would be interesting for me to learn more about key characteristics of different types of wine. 
+
 
 ## The Data
+
+My comes from Wine Enthusiast Magazine where zackthoutt scraped wine reviews from their website. This is a link where the dataset can be found: https://www.kaggle.com/zynicide/wine-reviews. For my project, I narrowed down the wine reviews from 150K to 48K because I wanted to use the top 5 most popular red and the top 5 most popular white wines from the dataset. There were 29,562 red wines and 18,533 white wines in my final 48K. 
 
 ## The Predictors
 
@@ -17,9 +21,7 @@
 
 ## Going Forward
 
-Data scrapped from Wine Enthusiast Magazine by zackthoutt which can be found here: https://www.kaggle.com/zynicide/wine-reviews
 
-There are over 150K reviews in this DataFrame, and I started this project with exploration and making some visuals about the data. The United States had the most wines reviewed in this dataset. There were 632 different types of wine in this dataset, but some of these "types" were blends, and I did not want to use blends to avoid confusion. After eliminating blends, unknown grape varieties, and duplicate enties, I narrowed the field down to 48K reviews. 
 
 ***image of points hist***
 ***image of countries***
