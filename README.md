@@ -13,7 +13,7 @@ My comes from Wine Enthusiast Magazine where zackthoutt scraped wine reviews fro
 
 ![](images/wine_varieties.png)
 
-![](images/countries/png)
+![](images/countries.png)
 
 ## The Predictors
 
